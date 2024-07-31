@@ -1,10 +1,10 @@
-<h1 align="center">Hey, 👨‍💻 My name is Joaquin Marchione Iturriza 👋.</h1>
-<h2 align="center">I´m in the last semester of Systems Analyst at ORT.</h2>
-<p align="center">Full stack developer with an orientation to Front-end 🖥.</p>
+<h1 align="center">Hey, My name is Joaquin Marchione Iturriza 👋.</h1>
+<h1 align="center">I´m in the last semester of Systems Analyst at ORT 👨‍💻.</h1>
+<h3 align="center">Full stack developer with an orientation to Front-end 🖥.</h3>
 
 
 🌱 I’m currently learning **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" <iframe src="https://giphy.com/embed/oPNq5A3IZC6bugJXeS" width="480" height="401" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/capybara-the-capy-code-thecapycode-oPNq5A3IZC6bugJXeS"></a></p>>
+<iframe src="https://giphy.com/embed/oPNq5A3IZC6bugJXeS" width="480" height="401" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/capybara-the-capy-code-thecapycode-oPNq5A3IZC6bugJXeS"></a></p>>
 
 
 <br>
