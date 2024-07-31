@@ -1,5 +1,5 @@
 <h1 align="center">Hey, My name is Joaquin Marchione Iturriza 👋.</h1>
-<h1 align="center">I´m in the last semester of Systems Analyst at ORT 👨‍💻.</h1>
+<h2 align="center">I´m in the last semester of Systems Analyst at ORT 👨‍💻.</h2>
 <h2 align="center">Full stack developer with an orientation to Front-end.</h2>
 
 
