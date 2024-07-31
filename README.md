@@ -1,6 +1,6 @@
 <h1 align="center">Hey, My name is Joaquin Marchione Iturriza 👋.</h1>
 <h1 align="center">I´m in the last semester of Systems Analyst at ORT 👨‍💻.</h1>
-<h3 align="center">Full stack developer with an orientation to Front-end 🖥.</h3>
+<h2 align="center">Full stack developer with an orientation to Front-end.</h2>
 
 
 
@@ -29,11 +29,11 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joakomi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joakomi height="30" width="40" /></a>
+<a href="https://www.behance.net/joaquinmarchio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 <br>
+
 
 ------
 
