@@ -3,8 +3,7 @@
 <h3 align="center">Full stack developer with an orientation to Front-end 🖥.</h3>
 
 
-🌱 I’m currently learning **WEB Development Full-Stack**
-<iframe src="https://giphy.com/embed/oPNq5A3IZC6bugJXeS" width="480" height="401" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/capybara-the-capy-code-thecapycode-oPNq5A3IZC6bugJXeS"></a></p>>
+
 
 
 <br>
