@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Joaquín Marchione Iturriza 👋</h1>
 <h2 align="center">Analista Funcional de Sistemas</h2>
 <p align="center">
-Trabajo en AllSur en la modernización de procesos y en el diseño de herramientas internas.<br>
+Trabajo en la modernización de procesos y en el diseño de herramientas internas.<br>
 Me interesa entender qué se necesita de verdad y llegar hasta la solución implementada.
 </p>
 
